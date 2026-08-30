@@ -7,4 +7,4 @@ Os Hands-On's são atividades semanais que o professor dispõe para fixação de
 
 1. [HO01: Fundamentos em Banco de Dados](https://github.com/rianchavespimenta/Banco-de-Dados/blob/main/Hands-On/HO01.md)
 2. [HO02: Modelagem Conceitual](https://github.com/rianchavespimenta/Banco-de-Dados/blob/main/Hands-On/HO02.md)
-3. [HO03: Modelagem Relacional](https://github.com/rianchavespimenta/Banco-de-Dados/blob/main/Hands-On/HO03)
+3. [HO03: Modelagem Relacional](https://github.com/rianchavespimenta/Banco-de-Dados/blob/main/Hands-On/HO03.md)
